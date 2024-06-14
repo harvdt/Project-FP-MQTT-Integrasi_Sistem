@@ -1,4 +1,4 @@
-# Dokumentasi FP MQTT Integrasi Sistem
+# Dokumentasi FP Integrasi Sistem
 
 Anggota Kelompok 8
 
@@ -7,7 +7,9 @@ Anggota Kelompok 8
 | Samuel Yuma Krismata | 5027221029 |
 | M. Harvian Dito S.   | 5027221039 |
 
-## Setup Hardware
+## Project 1
+
+### Setup Hardware
 
 Berikut adalah hardware yang diperlukan
 
@@ -22,13 +24,13 @@ Berikut adalah konfigurasi hardware
 -   DHT22 pin **(+)** - ESP8266 pin **3V**
 -   DHT22 pin **(-)** - ESP8266 pin **GND**
 
-## Setup MQTT Broker
+### Setup MQTT Broker
 
-Kode untuk NodeMCU & Sensor DHT22 dapat dilihat pada [file berikut](./src/MQTT.ino)
+Kode untuk NodeMCU & Sensor DHT22 dapat dilihat pada [file berikut](./project-1/src/MQTT.ino)
 
-Kode untuk menampilkan output dari MQTT melalui website dapat dilihat pada [file berikut](./src/index.html)
+Kode untuk menampilkan output dari MQTT melalui website dapat dilihat pada [file berikut](./project-1/src/index.html)
 
-## Dokumentasi
+### Dokumentasi
 
 Berikut adalah dokumentasi selama pengerjaan proyek ini
 
@@ -36,6 +38,8 @@ Berikut adalah dokumentasi selama pengerjaan proyek ini
 
 ![2](https://github.com/harvdt/Project-FP-MQTT-Integrasi_Sistem/assets/118542326/da5fed03-2271-4312-b2e9-ecbce00e513e)
 
-## Video Penjelasan
+### Video Penjelasan
 
 Video penjelasan terkait dengan proyek ini dapat dilihat pada [link berikut](https://youtu.be/8HK9N1a3S1U)
+
+## Project 2
