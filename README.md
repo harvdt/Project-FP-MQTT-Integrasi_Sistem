@@ -71,7 +71,7 @@ Kode untuk Raspberry Pi mqtt Publisher dapat dilihat pada [file berikut](./proje
 
 Kode untuk Raspberry Pi mqtt Subscriber dapat dilihat pada [file berikut](./project-2/Python-Code/mqtt_sub.py)
 
-Kode untuk menampilkan output suhu dari sensor DHT 22 dan melakukan on/off LED melalui website dapat dilihat pada [file berikut](./project-1/Web/index.html)
+Kode untuk menampilkan output suhu dari sensor DHT 22 dan melakukan on/off LED melalui website dapat dilihat pada [file berikut](./project-2/Web/index.html)
 
 ### Dokumentasi
 
